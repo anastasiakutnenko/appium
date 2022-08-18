@@ -42,6 +42,10 @@
           <option name="url" value="https://github.com/anastasiakutnenko/java_courses" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/swtestacademy/ExtentReportsExample.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/Idea Projects" />
